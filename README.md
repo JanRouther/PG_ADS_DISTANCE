@@ -1,5 +1,5 @@
 # PG_ADS_DISTANCE
-It's project for Algorithms and Data Structures classes made in 2019
+It's a project for Algorithms and Data Structures classes made in 2019
 
 
 Mean distances
